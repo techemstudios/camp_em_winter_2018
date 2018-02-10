@@ -3,9 +3,9 @@
 `02/10/2018`  
 
 #### `30 min`  
-  * Get a general idea of what kind of experience each kid has with minecraft(PE vs PC vs console version, mods, etc.)  
-  * Go over the basics of minecraft coordinate system(x, y, z)  
-  * Get everybody comfortable with the commands for the server  
+  1. Get a general idea of what kind of experience each kid has with minecraft(PE vs PC vs console version, mods, etc.)  
+  2. Go over the basics of minecraft coordinate system(x, y, z)  
+  3. Get everybody comfortable with the commands for the server  
 
 #### `30min`  
   * Give a brief introduction to python and type up the code for the coordinates program (name the file **coordinates.py**)  
