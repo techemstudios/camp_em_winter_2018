@@ -13,3 +13,7 @@ Minecraft build challenge that incorporates redstone logic, i.e. switches, eleva
 #### Day 2  
 
 Minecraft modding with Raspberry Pis and Python  
+
+***  
+
+### Planned  
