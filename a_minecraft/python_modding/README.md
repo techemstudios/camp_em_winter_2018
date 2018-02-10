@@ -8,21 +8,21 @@
   3. Get everybody comfortable with the commands for the server  
 
 #### `30min`  
-  * Give a brief introduction to python and type up the code for the coordinates program (name the file **coordinates.py**)  
-  * Configure the LED setup  
+  1. Give a brief introduction to python and type up the code for the coordinates program (name the file **coordinates.py**)  
+  2. Configure the LED setup  
    - Start with one LED and a ground wire  
-  * Have the class run the coordinates program again via sudo:  
+  3. Have the class run the coordinates program again via sudo:  
    ```bash  
    sudo python coordinates.py
    ```  
-  * Write the code for magic bridge program  
+  4. Write the code for magic bridge program  
 
 #### `30 min`    
-  * Write code for building a roller coaster/house  
+  1. Write code for building a roller coaster/house  
    - Starting with the program to build a tower of TNT blocks;  
    - Challenge the group to figure out for themselves how they might add to the code to build an outline of a house (cube)  
    
-  * Write code for clock  
+  2. Write code for clock  
    - This is optional, as the class might be *over* typing  
 
 #### `Remainder of class`  
