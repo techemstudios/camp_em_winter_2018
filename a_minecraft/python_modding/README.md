@@ -10,7 +10,7 @@
 #### `30min`  
   1. Give a brief introduction to python and type up the code for the coordinates program (name the file **coordinates.py**)  
   2. Configure the LED setup  
-      2a. Start with one LED and a ground wire  
+    i. Start with one LED and a ground wire  
   3. Have the class run the coordinates program again via sudo:  
    ```bash  
    sudo python coordinates.py
